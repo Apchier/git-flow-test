@@ -3,6 +3,7 @@
 export default function Home() {
     return (
         <>
+            <h1>ini branch feat/home</h1>
             <h1>ini branch dev</h1>
             <div>Home</div>
         </>
